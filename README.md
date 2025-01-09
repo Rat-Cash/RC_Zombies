@@ -25,7 +25,7 @@
 
 Follow these steps to run the game:
    ```bash
-   The game is not avalibe for download at the moment.
+   Download the .zip file from the releases page
    ```
 
 
